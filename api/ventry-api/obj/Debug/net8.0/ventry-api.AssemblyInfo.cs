@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ventry-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97fed1d489d9aff282af2ffdd07f13e5b0237bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ce216ded4e59142ff30e46a13eb1d4c08b8b1a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ventry-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ventry-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

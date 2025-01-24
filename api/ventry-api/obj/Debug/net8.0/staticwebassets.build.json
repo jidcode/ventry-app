@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "0ExrJtSE0Ax9TrDtvT1+M4aSwNwPhleASx0jQtoY/jc=",
-  "Source": "ventry-api",
-  "BasePath": "_content/ventry-api",
+  "Hash": "VNmpxfPfBl2p3O/9ZA/X5Y9xu+ZCaST/DuVKxoSVomE=",
+  "Source": "ventry_api",
+  "BasePath": "_content/ventry_api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
