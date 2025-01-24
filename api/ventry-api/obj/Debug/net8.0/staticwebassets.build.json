@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0ExrJtSE0Ax9TrDtvT1+M4aSwNwPhleASx0jQtoY/jc=",
+  "Source": "ventry-api",
+  "BasePath": "_content/ventry-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
